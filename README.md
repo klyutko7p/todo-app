@@ -1,4 +1,6 @@
 # todolist
+![image](https://user-images.githubusercontent.com/95645570/225997054-26a5b66b-2fb8-460e-9814-25d1a5da3037.png)
+
 
 ## Project setup
 ```
